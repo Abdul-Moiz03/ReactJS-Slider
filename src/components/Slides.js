@@ -70,5 +70,5 @@ function Slides({ slides }) {
     </div>
   );
 }
-
+//moiz
 export default Slides;
